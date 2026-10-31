@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-同花顺实盘高速量化网关 - Python SDK 客户端 (Zero-Dependency)
+实盘高速量化网关 - Python SDK 客户端 (Zero-Dependency)
 纯 Python 标准库编写，零 pip 依赖，开箱即用。
 """
 
